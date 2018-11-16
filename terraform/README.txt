@@ -1,0 +1,1 @@
+In this folder we can find all terraform script for terrarium preparation.
